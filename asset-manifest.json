@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/mille/static/css/main.5be2a347.css",
+    "main.js": "/mille/static/js/main.ac3d81e6.js",
+    "static/media/whatsapp.svg": "/mille/static/media/whatsapp.4df76c41680186d6fdad578b12eaef4a.svg",
+    "index.html": "/mille/index.html",
+    "static/media/instagram.svg": "/mille/static/media/instagram.870bc82aab10ab2269b084eb0e7aa848.svg",
+    "static/media/youtube.svg": "/mille/static/media/youtube.0168c5e177b599ab7940ab6c5bb06fcf.svg",
+    "static/media/corner.svg": "/mille/static/media/corner.d32d734ffc2ae7e95faa12e84b8b0413.svg",
+    "main.5be2a347.css.map": "/mille/static/css/main.5be2a347.css.map",
+    "main.ac3d81e6.js.map": "/mille/static/js/main.ac3d81e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5be2a347.css",
+    "static/js/main.ac3d81e6.js"
+  ]
+}
