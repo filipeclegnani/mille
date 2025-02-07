@@ -48,6 +48,9 @@ export default function Card() {
   const youtubeLink =
     "https://youtube.com/@uvasdecobertura?si=gs1HIy2i-6TStfKw";
   const whatsappLink = "https://web.whatsapp.com/send?phone=5549999280177";
+  const mobileWhatsappLink = "https://wa.me/5549999280177";
+
+  const isMobile = window.innerWidth < 768;
   return (
     <Wrapper>
       <SubWrapper>
@@ -77,7 +80,7 @@ export default function Card() {
               <h3>@uvasdecobertura</h3>
             </MediaWrapper>
           </a>
-          <a href={whatsappLink}>
+          <a href={isMobile ? mobileWhatsappLink : whatsappLink}>
             <MediaWrapper>
               <ImageWrapper
                 src={WhatsappIcon}
