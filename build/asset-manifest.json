@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5be2a347.css",
+    "main.js": "/static/js/main.341aba04.js",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.4df76c41680186d6fdad578b12eaef4a.svg",
+    "index.html": "/index.html",
+    "static/media/instagram.svg": "/static/media/instagram.870bc82aab10ab2269b084eb0e7aa848.svg",
+    "static/media/youtube.svg": "/static/media/youtube.0168c5e177b599ab7940ab6c5bb06fcf.svg",
+    "static/media/corner.svg": "/static/media/corner.d32d734ffc2ae7e95faa12e84b8b0413.svg",
+    "main.5be2a347.css.map": "/static/css/main.5be2a347.css.map",
+    "main.341aba04.js.map": "/static/js/main.341aba04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5be2a347.css",
+    "static/js/main.341aba04.js"
+  ]
+}
